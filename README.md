@@ -1,26 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LÊ%20THÁI%20AN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Night%20Coder%20%7C%20Penguin%20Lover%20🐧&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LÊ%20THÁI%20AN&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Night%20Coder%20%7C%20Penguin%20Lover%20🐧&descAlignY=58&descSize=17" />
 
 </div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  > INITIALIZING PROFILE...                               ║
-║  > LOADING USER: LeThaiAn07                 [██████] ✓   ║
-║  > STATUS: ONLINE | ICT (UTC+7)                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF77FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Lê+Thái+An+👋;FullStack+Developer+%7C+TypeScript+%2B+Python;Building+cool+stuff+with+Node.js+%26+Bun;Night+coder+☕+%7C+Penguin+enthusiast+🐧;Always+learning%2C+always+growing+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF77FF&center=true&vCenter=true&random=false&width=650&lines=Hello+World!+I'm+Lê+Thái+An+👋;FullStack+Developer+%7C+TypeScript+%2B+Python;Building+cool+stuff+with+Node.js+%26+Bun+🚀;Night+coder+☕+%7C+Penguin+enthusiast+🐧;Always+learning%2C+always+growing+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,33 +28,24 @@
 
 ## ⚡ ABOUT ME
 
-```python
-class LeThaiAn:
-    name       = "Lê Thái An"
-    alias      = "NaiahtelPenguin"
-    location   = "Vietnam 🇻🇳"
-    timezone   = "ICT (UTC+7)"
+<img align="right" alt="Coding" width="340" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d8be3f5cd7bdb6e86ca95c/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742306363363539354a767436a4f4e5573372f646576656c6f706572762e676966" />
 
-    languages  = ["Python", "TypeScript", "JavaScript"]
-    frontend   = ["HTML5", "CSS3"]
-    backend    = ["Node.js", "Bun"]
-    databases  = ["MongoDB", "MySQL", "MariaDB"]
+- 🔭 Hiện đang xây dựng những dự án thú vị
+- 🌱 Đang học thêm về **TypeScript**, **Bun** và **System Design**
+- 💬 Hỏi mình về **JavaScript**, **Python**, **Node.js**
+- 🎮 Gamer thứ thiệt và fan cứng của cánh cụt 🐧
+- ☕ Debug hiệu quả nhất lúc 3AM với ly cà phê
+- ⚡ Fun fact: Mình code ban đêm hiệu quả hơn ban ngày
+- 📍 Việt Nam 🇻🇳 &nbsp;|&nbsp; ICT (UTC+7)
 
-    hobbies    = ["🎮 Gaming", "🐧 Penguin fan", "☕ Coffee", "🌙 Coding at 3AM"]
-    currently  = "Building something awesome..."
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool 🚀")
-
-me = LeThaiAn()
-me.say_hi()
-```
+<br clear="right"/>
 
 ---
 
 ## 🚀 TECH STACK
 
 ### 💻 Languages
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -78,6 +55,7 @@ me.say_hi()
 </div>
 
 ### 🌐 Frontend & Backend
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,6 +66,7 @@ me.say_hi()
 </div>
 
 ### 🗄️ Databases
+
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -97,6 +76,7 @@ me.say_hi()
 </div>
 
 ### 🛠️ Tools & Platforms
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -104,6 +84,7 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -116,17 +97,13 @@ me.say_hi()
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeThaiAn07&show_icons=true&theme=rose_pine&count_private=true&border_color=ff77ff&bg_color=0d1117&title_color=ff77ff&text_color=ccd6f6&icon_color=00ccff&border_radius=12" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=LeThaiAn07&theme=rose_pine&border=ff77ff&background=0d1117&stroke=ff77ff&ring=ff77ff&fire=ff4444&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8892b0&border_radius=12" />
 
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThaiAn07&layout=compact&theme=rose_pine&border_color=ff77ff&bg_color=0d1117&title_color=ff77ff&text_color=ccd6f6&border_radius=12" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeThaiAn07&layout=compact&theme=rose_pine&border_color=ff77ff&bg_color=0d1117&title_color=ff77ff&text_color=ccd6f6&border_radius=12" />
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -140,26 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeThaiAn07&bg_color=0d1117&color=ff77ff&line=ff77ff&point=ffffff&area=true&hide_border=true&area_color=ff77ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎵 VIBE CHECK
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│  🎧 Currently vibing to...                  │
-│                                             │
-│  Lo-fi beats while debugging at 3AM ☕      │
-│  ████████████████░░░░░  80% caffeinated     │
-│                                             │
-│  Mood: [██████████] LET'S SHIP IT 🚀        │
-└─────────────────────────────────────────────┘
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeThaiAn07&bg_color=0d1117&color=ff77ff&line=ff77ff&point=ffffff&area=true&hide_border=true&area_color=ff77ff33)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -172,10 +130,8 @@ me.say_hi()
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeThaiAn07/LeThaiAn07/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeThaiAn07/LeThaiAn07/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeThaiAn07/LeThaiAn07/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeThaiAn07/LeThaiAn07/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-> 💡 **Setup snake:** Add a GitHub Action to generate the snake animation automatically!
 
 </div>
 
@@ -185,8 +141,12 @@ me.say_hi()
 
 <img src="https://komarev.com/ghpvc/?username=LeThaiAn07&label=👁️%20Profile%20Views&color=ff77ff&style=for-the-badge" />
 
-**「 Thanks for visiting! Drop a ⭐ if you like what you see 」**
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+**✦ Thanks for visiting my profile! Drop a ⭐ if you like what you see ✦**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
