@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LÊ%20THÁI%20AN&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Night%20Coder%20%7C%20Penguin%20Lover%20🐧&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=LÊ%20THÁI%20AN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=ff77ff&strokeWidth=2&desc=FullStack%20Developer%20%7C%20Night%20Coder%20%7C%20Penguin%20Lover%20🐧&descAlignY=65&descSize=16&descColor=ccaaff" />
 
 </div>
 
@@ -147,6 +147,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&stroke=ff77ff&strokeWidth=1" />
 
 </div>
